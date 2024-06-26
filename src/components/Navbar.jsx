@@ -10,9 +10,9 @@ function Navbar() {
             >
                 <div className="logo">
                     <div
-                        className="w-[178px] h-[120px] bg-cover bg-no-repeat"
+                        className="w-[128px] h-[120px] bg-cover bg-no-repeat"
                         style={{
-                            backgroundImage: `url("Research_Nexus-removebg.png")`,
+                            backgroundImage: `url("Research_Nexus-bg.png")`,
                         }}
                     />
                 </div>
