@@ -16,8 +16,9 @@ function Eyes() {
     })
 
     return (
-        <div className="eyes w-full h-screen overflow-hidden">
-            <div data-scroll="" data-scroll-section="" data-scroll-speed="-0.7" className="relative w-full h-screen bg-cover bg-center bg-red-500 bg-[url('https://ochi.design/wp-content/uploads/2022/05/Top-Viewbbcbv-1-1440x921.jpg')]">
+        <div className="eyes w-full h-[1250px] overflow-hidden bg-gray-100 flex items-center justify-center min-h-screen">
+
+            <div data-scroll="" data-scroll-section="" data-scroll-speed="-0.2" className="items-center justify-center relative w-[1040px] h-[625px] bg-cover bg-center pt-20 bg-red-500 bg-[url('https://assets-global.website-files.com/60ddde2d9425555c614bd8d6/63d7975da083e9b49cee4708_Non-Collateralized-Crypto-Loans_Real-or-Myth_2-p-2000.jpg')]">
                 <div className="absolute flex gap-10 top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] ">
                     < div className='flex items-center justify-center w-[15vw] h-[15vw] rounded-full bg-zinc-100' >
                         < div className='relative w-2/3 h-2/3 flex items-center justify-center rounded-full bg-zinc-900' >
