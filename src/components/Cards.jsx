@@ -12,7 +12,7 @@ function Cards() {
             </div >
             <div className='cardcontainer flex gap-5 w-1/2 h-[50vh]' >
                 <div className='card relative rounded-xl w-1/2 h-full bg-[#254E58] flex items-center justify-center'>
-                    <img className="w-60 " src="Arabic .png" alt="" />
+                    <img className="w-60 " src="https://cdn.prod.website-files.com/66325be5c91d02733ec6bfcc/667fdc6b27de870bccde6fa5_Arabic%20(1).png" alt="" />
                     <button className='absolute px-5 py-1 rounded-full border-2 left-10 bottom-10'>&copy;2019-2022</button>
                 </div>
                 <div className='card relative rounded-xl w-1/2 h-full bg-[#254E58] flex items-center justify-center'>
