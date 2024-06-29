@@ -106,7 +106,7 @@ function Featured() {
                         </h1>
 
                         <div className="card w-full h-full rounded-xl overflow-hidden "><a href="https://www.geeksforgeeks.org/advantages-of-ipv6/?utm_source=auth&utm_medium=saved&utm_campaign=articles">
-                            <img className='w-full h-full bg-cover' src="ipv6.jpeg" alt="" /></a>
+                            <img className='w-full h-full bg-cover' src="C:\Users\lenevo\OneDrive\Desktop\Research-Web\ipv6.jpeg" alt="" /></a>
 
                         </div>
                     </motion.div>
