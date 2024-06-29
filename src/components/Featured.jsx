@@ -84,7 +84,7 @@ function Featured() {
                         </h1>
 
                         <div className="card w-full h-full rounded-xl overflow-hidden "><a href="https://www.geeksforgeeks.org/what-is-asymmetric-encryption/?utm_source=auth&utm_medium=saved&utm_campaign=articles">
-                            <img className='w-full h-full bg-cover' src=".//Assem.jpeg" alt="" /></a>
+                            <img className='w-full h-full bg-cover' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-3rcjT_26QY8nI9UPx9JZzgIofjEquwrKA&s" alt="" /></a>
 
                         </div>
                     </motion.div>
@@ -106,7 +106,7 @@ function Featured() {
                         </h1>
 
                         <div className="card w-full h-full rounded-xl overflow-hidden "><a href="https://www.geeksforgeeks.org/advantages-of-ipv6/?utm_source=auth&utm_medium=saved&utm_campaign=articles">
-                            <img className='w-full h-full bg-cover' src="C:\Users\lenevo\OneDrive\Desktop\Research-Web\ipv6.jpeg" alt="" /></a>
+                            <img className='w-full h-full bg-cover' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnEGurKHDPMlD-9GwZ5OlsoduxYvzdNxjX14EVzJLXs80Tq8C7U_pEFh2Xyazqiv3cEv4&usqp=CAU" alt="" /></a>
 
                         </div>
                     </motion.div>

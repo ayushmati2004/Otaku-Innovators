@@ -16,7 +16,7 @@ function Cards() {
                     <button className='absolute px-5 py-1 rounded-full border-2 left-10 bottom-10'>&copy;2019-2022</button>
                 </div>
                 <div className='card relative rounded-xl w-1/2 h-full bg-[#254E58] flex items-center justify-center'>
-                    <img className="w-32 " src="R.png" alt="" />
+                    <img className="w-37 " src="https://media.geeksforgeeks.org/auth-dashboard-uploads/gfgFooterLogo.png" alt="" />
                     <button className='absolute px-5 py-1 rounded-full border-2 left-10 bottom-10'>&copy;2019-2022</button>
                 </div>
             </div >
