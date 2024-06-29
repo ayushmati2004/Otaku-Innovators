@@ -22,18 +22,21 @@ function Navbar() {
                         <a
                             key={index}
                             className={`text-lg capitalize font-light ${index === 4 && "ml-32"}`}
-                            href={item === "Write with us" ? "https://prateek2384.github.io/Research_Nexus/" : "#"}
-                            target={item === "Write with us" ? "_blank" : ""}
-                            rel={item === "Write with us" ? "noopener noreferrer" : ""}
-                            className={`text-lg capitalize font-light ${index === 4 && "ml-32"}`}
-                            href={item === "Login/Signup" ? "https://divyatiwar.github.io/signup-signin/" : "#"}
-                            target={item === "Login/Signup" ? "_blank" : ""}
-                            rel={item === "Login/Signup" ? "noopener noreferrer" : ""}
+                            href={
+                                item === "Write with us"
+                                    ? "https://prateek2384.github.io/Research_Nexus/"
+                                    : item === "Login/Signup"
+                                        ? "https://divyatiwar.github.io/signup-signin/"
+                                        : "#"
+                            }
+                            target={item === "Write with us" || item === "Login/Signup" ? "_blank" : ""}
+                            rel={item === "Write with us" || item === "Login/Signup" ? "noopener noreferrer" : ""}
                         >
                             {item}
                         </a>
                     ))}
                 </div>
+
 
             </div>
         </div>

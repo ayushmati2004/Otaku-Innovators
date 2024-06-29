@@ -84,7 +84,7 @@ function Featured() {
                         </h1>
 
                         <div className="card w-full h-full rounded-xl overflow-hidden "><a href="https://www.geeksforgeeks.org/what-is-asymmetric-encryption/?utm_source=auth&utm_medium=saved&utm_campaign=articles">
-                            <img className='w-full h-full bg-cover' src="Assem.jpeg" alt="" /></a>
+                            <img className='w-full h-full bg-cover' src=".//Assem.jpeg" alt="" /></a>
 
                         </div>
                     </motion.div>
