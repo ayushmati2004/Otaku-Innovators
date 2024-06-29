@@ -84,7 +84,7 @@ function Featured() {
                         </h1>
 
                         <div className="card w-full h-full rounded-xl overflow-hidden "><a href="https://www.geeksforgeeks.org/what-is-asymmetric-encryption/?utm_source=auth&utm_medium=saved&utm_campaign=articles">
-                            <img className='w-full h-full bg-cover' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-3rcjT_26QY8nI9UPx9JZzgIofjEquwrKA&s" alt="" /></a>
+                            <img className='w-full h-full bg-cover' src="https://cdn.prod.website-files.com/66325be5c91d02733ec6bfcc/667fdd1b432df1a9f0a094e5_Research_Nexus-removebg1.png" alt="" /></a>
 
                         </div>
                     </motion.div>
