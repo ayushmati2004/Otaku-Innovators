@@ -25,7 +25,14 @@ function LandinfPage() {
                 {["For Organisations of all sizes", "From Discovery to innovation"].map((item, index) => <p className="text-md font-lighttracking-tight leading-none">{item}
                 </p>)}
                 <div className="start flex items-center gap-5">
-                    <div className="px-5 py-2 border-[1px] border-zinc-400 font-light text-md uppercase rounded-full">START WRITING</div>
+                    <a
+                        href="https://prateek2384.github.io/Research_Nexus/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="px-5 py-2 border-[1px] border-zinc-400 font-light text-md uppercase rounded-full"
+                    >
+                        START WRITING
+                    </a>
                     <div className="w-10 h-10 flex items-center justify-center border-[1px] border-zinc-400 rounded-full">
                         <span className="rotate-[45deg]">
                             <FaArrowUpLong />
@@ -33,7 +40,8 @@ function LandinfPage() {
                     </div>
                 </div>
             </div>
-        </div >
+        </div>
+
 
     );
 }
