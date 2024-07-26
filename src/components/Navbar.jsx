@@ -29,7 +29,7 @@ function Navbar() {
               key={index}
               className={`text-lg capitalize font-light ${
                 index === 4 && "ml-32"
-              } transition-all duration-300 transform hover:text-[#ADD8E6] hover:scale-105 hover:underline hover:underline-offset-4`}
+              } transition-all duration-300 transform hover:text-[#ADD8E6] hover:scale-105`}
               href={
                 item === "Write with us"
                   ? "https://prateek2384.github.io/Research_Nexus/"
