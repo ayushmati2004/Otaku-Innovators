@@ -7,23 +7,23 @@ function About() {
       data-scroll=""
       data-scroll-section=""
       data-scroll-speed="-0.25"
-      className='w-full p-20 rounded-tl-3xl rounded-tr-3xl bg-[#2B7A78] text-black "] '
+      className="w-full p-20 rounded-tl-3xl rounded-tr-3xl bg-[#2B7A78] text-black"
     >
       <h1 className='font-["Neue_Montreal"] text-[3vw] leading-[4.5vw]'>
         ResearchNexus is a collaborative platform empowering researchers and
         writers to access comprehensive data effortlessly. It streamlines
         research, content creation, and knowledge sharing, fostering
-        productivity and community engagement.
+        productivity and community engagement.
       </h1>
 
-      <div className="w-full flex gap-5 border-t-[2px]  pt-10 mt-20 border-[#254E58]"></div>
+      <div className="w-full flex gap-5 border-t-[2px] pt-10 mt-20 border-[#254E58]"></div>
 
-      <div class="w-full flex justify-between items-start mx-4">
-        <h2 class='font-["Neue_Montreal"] text-[1.5vw] leading-[3vw] w-1/3 mx-4'>
+      <div className="w-full flex justify-between items-start mx-4">
+        <h2 className='font-["Neue_Montreal"] text-[1.5vw] leading-[3vw] w-1/3 mx-4'>
           What you can expect from ResearchNexus:
         </h2>
-        <div class="w-2/3 text-left mx-4">
-          <h2 class='font-["Neue_Montreal"] text-[1.5vw] leading-[3vw] mb-20 mx-4'>
+        <div className="w-2/3 text-left mx-4">
+          <h2 className='font-["Neue_Montreal"] text-[1.5vw] leading-[3vw] mb-20 mx-4'>
             Effortless access to comprehensive research tools and resources,
             streamlined content creation processes, and a vibrant community for
             collaboration and knowledge sharing. Whether you're conducting
@@ -32,28 +32,28 @@ function About() {
           </h2>
         </div>
 
-        <div class="w-1/3 text-left justify-end mx-4">
-          <h2 class='font-["Neue_Montreal"] text-[1.5vw] leading-[3vw] mx-4'>
+        <div className="w-1/3 text-left justify-end mx-4">
+          <h2 className='font-["Neue_Montreal"] text-[1.5vw] leading-[3vw] mx-4'>
             S:
           </h2>
-          <ul class="mt-4">
+          <ul className="mt-4">
             <li>
-              <a href="#" class="underline">
+              <a href="#" className="underline">
                 Instagram
               </a>
             </li>
             <li>
-              <a href="#" class="underline">
+              <a href="#" className="underline">
                 Behance
               </a>
             </li>
             <li>
-              <a href="#" class="underline">
+              <a href="#" className="underline">
                 Facebook
               </a>
             </li>
             <li>
-              <a href="#" class="underline">
+              <a href="#" className="underline">
                 Linkedin
               </a>
             </li>
@@ -64,7 +64,7 @@ function About() {
       <div className="w-full flex gap-5 border-t-[2px] pt-10 mt-50 border-[#254E58]">
         <div className="w-1/2">
           <h1 className="text-7xl ">Our approach</h1>
-          <button className="flex uppercase gap-10 items-center px-10 py-6 bg-zinc-900  mt-10 rounded-full text-white">
+          <button className="flex uppercase gap-10 items-center px-10 py-6 bg-zinc-900 mt-10 rounded-full text-white transition-all duration-300 transform hover:text-[#ADD8E6] hover:scale-105">
             Read More
             <div className="w-2 h-2 bg-zinc-100 rounded-full"></div>
           </button>
