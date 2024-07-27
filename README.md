@@ -1,5 +1,6 @@
-# Otaku-Innovators
-BuildwithDelhi Hackathon
+# Soul Celestia
+# ScholarSphere
+Code Cubicle 2.0 Hackathon
 =======
 # React + Vite
 
