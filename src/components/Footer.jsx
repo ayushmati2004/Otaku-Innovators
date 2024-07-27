@@ -21,7 +21,7 @@ function Footer() {
           <div
             className="w-[128px] h-[120px] bg-cover bg-no-repeat"
             style={{
-              backgroundImage: `url("Research_Nexus-bg.png")`,
+              backgroundImage: `url("ScholarSphere1.png")`,
             }}
           />
         </div>

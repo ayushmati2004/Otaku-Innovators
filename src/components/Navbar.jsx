@@ -10,9 +10,9 @@ function Navbar() {
       >
         <div className="logo">
           <div
-            className="w-[108px] h-[120px] bg-cover bg-no-repeat"
+            className="w-[119px] h-[120px] bg-cover bg-no-repeat"
             style={{
-              backgroundImage: `url("ScholarSphere.png")`,
+              backgroundImage: `url("ScholarSphere1.png")`,
             }}
           />
         </div>
