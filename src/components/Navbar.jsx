@@ -12,7 +12,7 @@ function Navbar() {
           <div
             className="w-[108px] h-[120px] bg-cover bg-no-repeat"
             style={{
-              backgroundImage: `url("https://cdn.prod.website-files.com/66325be5c91d02733ec6bfcc/667fdd1b432df1a9f0a094e5_Research_Nexus-removebg1.png")`,
+              backgroundImage: `url("ScholarSphere.png")`,
             }}
           />
         </div>
