@@ -10,7 +10,7 @@ function About() {
       className="w-full p-20 rounded-tl-3xl rounded-tr-3xl bg-[#2B7A78] text-black"
     >
       <h1 className='font-["Neue_Montreal"] text-[3vw] leading-[4.5vw]'>
-        ResearchNexus is a collaborative platform empowering researchers and
+        ScholarSphere is a collaborative platform empowering researchers and
         writers to access comprehensive data effortlessly. It streamlines
         research, content creation, and knowledge sharing, fostering
         productivity and community engagement.
@@ -20,7 +20,7 @@ function About() {
 
       <div className="w-full flex justify-between items-start mx-4">
         <h2 className='font-["Neue_Montreal"] text-[1.5vw] leading-[3vw] w-1/3 mx-4'>
-          What you can expect from ResearchNexus:
+          What you can expect from ScholarSphere:
         </h2>
         <div className="w-2/3 text-left mx-4">
           <h2 className='font-["Neue_Montreal"] text-[1.5vw] leading-[3vw] mb-20 mx-4'>
